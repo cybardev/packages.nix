@@ -1,0 +1,9 @@
+hey y'all, this is just a small nix channel i made to have a clear place to
+put all my nix packaging little things, instead of spreading them across a
+million git repos and then having to manage submodules and stuff (which i
+hate...).
+
+because i don't want to have to rigorously maintain them, i don't really plan
+on upstreaming any of these to nixpkgs right now. however, if you want to
+adopt (i.e. act as nixpkgs maintainer) any of them, feel free to reach out,
+it'd make me incredibly happy :D
