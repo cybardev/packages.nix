@@ -1,4 +1,4 @@
-# zsh-powerlevel10k
+# `zsh-powerlevel10k`
 
 A home-manager module for configuring `powerlevel10k` directly in nix.
 
