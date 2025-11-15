@@ -113,10 +113,10 @@ with lib; {
                     export POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true
                     export POWERLEVEL9K_CONFIG_FILE="${toString themeFile}"
                 '';
+    };
 
-        meta = {
-            maintainers = [ maintainers.blokyk ];
-            doc = ./README.md;
-        };
+    meta = {
+        maintainers = [ maintainers.blokyk ];
+        # doc = ./README.md;
     };
 }

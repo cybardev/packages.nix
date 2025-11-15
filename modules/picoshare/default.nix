@@ -126,6 +126,6 @@ in {
 
   meta = {
     maintainers = [ maintainers.blokyk ];
-    doc = ./README.md;
+    # doc = ./README.md;
   };
 }
